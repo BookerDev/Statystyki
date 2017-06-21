@@ -1,0 +1,3 @@
+name: Statytyki
+main: pl.statystyki.waterfall.MainWaterfall
+version: 0.0.1
